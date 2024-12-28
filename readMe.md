@@ -37,13 +37,12 @@ Spectrum is an innovative project that combines the Myers-Briggs Type Indicator 
 
 ## Usage
 - Run the main application: python main.py
+- Make sure you have installed all the lybraries required
 - The assesment question will be visible on your screen.
 - Open your hand for 'yes' and close your hand for 'no' to answer the questions.
 - to submit the response just take your hand out from camera and it will submit the answer.
 - at the end View your personality assessment results upon completion.
 
 # requirement 
-- python 3.x
-- openCV
-- Tkinter
-- Time
+- web-cam
+- working computer with python installed
