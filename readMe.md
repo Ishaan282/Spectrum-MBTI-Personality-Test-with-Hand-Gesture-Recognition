@@ -25,7 +25,7 @@ Spectrum is an innovative project that combines the Myers-Briggs Type Indicator 
 5. **Result Display**: After all questions are answered, a popup using Tkinter displays the user's personality type based on their responses.
 
 ## Team
-- [Ishaan Singla](https://github.com/Ishaan1106)
+- [Ishaan Singla](https://github.com/Ishaan282)
 - [Samiksha Singh](https://github.com/SamikshaSingh25)
 - [Sameer Chandra](https://github.com/MajesterSmith)
 - [Sanjal](https://github.com/SanjalJain)
